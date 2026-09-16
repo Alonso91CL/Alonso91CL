@@ -11,5 +11,5 @@ Soy un Desarrollador Web enfocado en crear interfaces modernas, rápidas y escal
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### 📫 Cómo contactarme
-- [LinkedIn](TU_ENLACE_A_LINKEDIN_AQUI)
-- [Email](mailto:TU_CORREO_AQUI)
+- [LinkedIn](https://www.linkedin.com/in/german-figueroa-f/)
+- [Email](mailto:alonso91cl@gmail.com)
